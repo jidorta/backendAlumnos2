@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'ibandortalumnos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_016E710F734F47DF94E2810EF119FA79 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F9DC013F38C4CA8BA072A0D32B76A64 }}
           package: '*.jar'
